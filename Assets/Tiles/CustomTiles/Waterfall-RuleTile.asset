@@ -21,7 +21,7 @@ MonoBehaviour:
     - {fileID: 21300004, guid: 3756c62b1e7a74928a9c6f241d0a670f, type: 3}
     - {fileID: 21300006, guid: 3756c62b1e7a74928a9c6f241d0a670f, type: 3}
     - {fileID: 21300008, guid: 3756c62b1e7a74928a9c6f241d0a670f, type: 3}
-    m_AnimationSpeed: 1
+    m_AnimationSpeed: 10
     m_PerlinScale: 0.5
     m_RuleTransform: 0
     m_Output: 2
@@ -34,7 +34,7 @@ MonoBehaviour:
     - {fileID: 21300014, guid: 3756c62b1e7a74928a9c6f241d0a670f, type: 3}
     - {fileID: 21300016, guid: 3756c62b1e7a74928a9c6f241d0a670f, type: 3}
     - {fileID: 21300018, guid: 3756c62b1e7a74928a9c6f241d0a670f, type: 3}
-    m_AnimationSpeed: 1
+    m_AnimationSpeed: 10
     m_PerlinScale: 0.5
     m_RuleTransform: 0
     m_Output: 2
